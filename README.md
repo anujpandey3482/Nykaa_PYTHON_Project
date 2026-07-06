@@ -177,7 +177,6 @@ nykaa-marketing-eda/
 ├── nykaa.ipynb          # main analysis notebook
 ├── nykaa_data.csv        # raw dataset (add your own)
 ├── README.md              # this file
-└── requirements.txt       # pinned dependencies
 ```
 
 ---
