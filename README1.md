@@ -39,8 +39,6 @@ The dataset contains one row per campaign record with fields such as:
 | `Revenue` | Revenue generated |
 | `ROI` | Return on investment (as provided in the raw data) |
 
-> ⚠️ Note: `nykaa_data.csv` is **not included** in this repo. Place your own copy of the dataset in the project's root folder before running the notebook.
-
 ---
 
 ## 🧰 Tools & Libraries
